@@ -1,0 +1,18 @@
+{
+  "name": "de.codesmile.moonsharp",
+  "displayName": "MoonSharp",
+  "description": "Install MoonSharp without NuGet via Unity Package Manager. No customizations.",
+  "version": "2.0.0",
+  "unity": "2021.3",
+  "unityRelease": "3f1",
+  "author": {
+    "name": "Steffen Itterheim aka 'CodeSmile' (Unity MVP, Self-Employed)",
+    "email": "steffen@steffenitterheim.de",
+    "url": "https://github.com/CodeSmile-0000011110110111/de.codesmile.moonsharp"
+  },
+  "changelogUrl": "https://github.com/CodeSmile-0000011110110111/de.codesmile.moonsharp/tree/main/CHANGELOG.md",
+  "documentationUrl": "https://github.com/CodeSmile-0000011110110111/de.codesmile.moonsharp/tree/main/README.md",
+  "licensesUrl": "https://github.com/CodeSmile-0000011110110111/de.codesmile.moonsharp/tree/main/LICENSE",
+  "dependencies": {},
+  "relatedPackages": {}
+}
